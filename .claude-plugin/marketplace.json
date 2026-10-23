@@ -1,0 +1,14 @@
+{
+  "name": "claude-changes-list",
+  "description": "Changes list plugin for Claude Code: per-turn diffs and VS Code views",
+  "owner": {
+    "name": "SemihArslanhw"
+  },
+  "plugins": [
+    {
+      "name": "changes-list",
+      "source": "./",
+      "description": "Per-turn file changes with unified diffs and side-by-side VS Code views"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "changes-list",
+  "version": "0.1.0",
+  "description": "Ends each reply with a Changes list link: a per-turn +/- diff of the files Claude changed, with no git",
+  "author": {
+    "name": "SemihArslanhw",
+    "url": "https://github.com/SemihArslanhw"
+  },
+  "homepage": "https://github.com/SemihArslanhw/claude-changes-list#readme",
+  "repository": "https://github.com/SemihArslanhw/claude-changes-list",
+  "keywords": ["changes", "diff", "vscode", "hooks"]
+}
